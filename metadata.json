@@ -1,0 +1,6 @@
+{
+  "name": "HackerHouse Goa 2026 — Builder Residency & Pass Studio",
+  "description": "Interactive Goan Hacker Badge generator, AI Goan hacker persona creator, and 3-day hackathon sprint scheduler.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
